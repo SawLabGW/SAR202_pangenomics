@@ -1,4 +1,4 @@
-# SAR202_pangenomics
+# Scripts used in the SAR202 pangenomics paper
 
 A collection of scripts and data files used in the SAR202 pangenomics paper: https://pubmed.ncbi.nlm.nih.gov/31911493/
 
