@@ -1,0 +1,123 @@
+bin	orig_bin_name	Delmont_bins	subgroup	genome_size	completeness	contamination	GC	reference	accession	note1	depth(m)	lat	lon	note2	genes	fmnos	enolases	rhds	dehydro
+LSU_GOM1	2651870034		Group1a	2475308	83.33	0.08	52.6	Thrash et al (2017)	2651870035	IMG accession	30	28.9833	-90.8333		2228	3	61	0	35
+LSU_GOM2	2651870035		Group1a	1972793	89.97	0	51.8	Thrash et al (2017)	2651870034	IMG accession	30	28.9833	-90.8333		1795	2	63	0	35
+MPMJ01	MPMJ01		Group4	3223809	88.58	0	65.06	Slaby et al (2017)	MPMJ00000000	NCBI accession	5	45.5178	13.5682		3160	26	7	62	42
+MPMM01	MPMM01		Group3a	4393250	95.99	1.85	59.85	Slaby et al (2017)	MPMM00000000	NCBI accession	5	45.5178	13.5682		4080	74	3	5	40
+MPNC01	MPNC01		Group3a	4958136	94.96	0	62.49	Slaby et al (2017)	MPNC00000000	NCBI accession	5	45.5178	13.5682		4682	88	4	6	50
+MPND01	MPND01		Group2	4606320	94.14	1.54	56.56	Slaby et al (2017)	MPND00000000	NCBI accession	5	45.5178	13.5682		4400	47	23	2	51
+MPNN01	MPNN01		Group1a	3017767	94.88	1.85	57.24	Slaby et al (2017)	MPNN00000000	NCBI accession	5	45.5178	13.5682		2896	4	54	1	31
+OSU_BB01	108-200.bin.5		Group2	1799763	85.49	1.03	41.98	this study	TBA	NCBI accession	200	31.666664	-64.166666		1738	38	31	0	40
+OSU_BB02	108-200.bin.7		Group1a	1570659	60.19	0	46.46	this study	TBA	NCBI accession	200	31.666664	-64.166666		1403	3	47	0	30
+OSU_BB03	108-80.bin.6		Group1b	1304149	90.91	3.45	30.92	this study	TBA	NCBI accession	80	31.666664	-64.166666		1298	1	28	0	19
+OSU_BB04	134-200.bin.16		Group1a	1935661	83.3	0	46.66	this study	TBA	NCBI accession	200	31.666664	-64.166666		1749	5	63	0	31
+OSU_BB05	134-200.bin.24		Group2	1271453	62.55	0	43.39	this study	TBA	NCBI accession	200	31.666664	-64.166666		1215	33	27	0	22
+OSU_BB06	136-0.bin.13		Group1b	1333938	84.48	1.72	31.04	this study	TBA	NCBI accession	0	31.666664	-64.166666		1359	1	27	0	22
+OSU_BB07	136-80.bin.29		Group2	823410	48.55	0.93	34.69	this study	TBA	NCBI accession	80	31.666664	-64.166666		798	4	5	0	18
+OSU_BB08	164-200.bin.4		Group1a	1996886	87.15	0.16	46.88	this study	TBA	NCBI accession	200	31.666664	-64.166666		1807	7	63	0	40
+OSU_BB09	164-200.bin.5		Group2	1951973	89.32	1.85	42.17	this study	TBA	NCBI accession	200	31.666664	-64.166666		1881	46	31	0	43
+OSU_BB10	164-200.bin.7		Group3a	1860312	56.83	1.85	50.18	this study	TBA	NCBI accession	200	31.666664	-64.166666		1729	61	3	4	36
+OSU_BB11	164-200.bin.8		Group3a	1743277	69.07	0	43.78	this study	TBA	NCBI accession	200	31.666664	-64.166666		1724	50	6	1	32
+OSU_NS01	JPT_493_193m_K16		Group5	287667	15.74	0	44.25	this study	TBA	NCBI accession	193	37.040571	143.052926	need to double check coords with Takuro	268	0	0	0	3
+OSU_NS02	MRT_802_200m_E10		Group4	686135	34.56	0.16	43.3	this study	TBA	NCBI accession	200	17.772461	142.500581	need to double check coords with Takuro	638	7	1	3	8
+OSU_NS03	MRT_802_200m_F09		Group3a	1123826	32.24	0	53.17	this study	TBA	NCBI accession	200	17.772461	142.500581	need to double check coords with Takuro	1069	35	0	3	18
+OSU_NS04	MRT_802_200m_K11		Group2	848920	41.51	0.1	43.56	this study	TBA	NCBI accession	200	17.772461	142.500581	need to double check coords with Takuro	835	19	15	0	24
+OSU_NS05	MRT_802_200m_L14		Group1a	835250	34.48	0.16	46.47	this study	TBA	NCBI accession	200	17.772461	142.500581	need to double check coords with Takuro	785	3	23	0	14
+OSU_NS06	MRT_804_500m_J14		Group3c	1771905	68.72	5.28	46.49	this study	TBA	NCBI accession	500	17.772461	142.500581	need to double check coords with Takuro	1646	50	1	3	26
+OSU_NS07	MRT_812_10900m_D07		Group1a	301080	8.33	0	56.45	this study	TBA	NCBI accession	10900	17.772461	142.500581	need to double check coords with Takuro	293	0	4	0	5
+OSU_NS08	OGT_409_754m_J13		Group3c	1028817	66.36	0	42.36	this study	TBA	NCBI accession	754	31.666664	-64.166666	need to double check coords with Takuro	963	1	0	0	5
+OSU_NS09	OGT_647_505m_N09		Group5	1047363	50.99	0	52.66	this study	TBA	NCBI accession	505	31.666664	-64.166666	need to double check coords with Takuro	975	2	0	0	2
+OSU_NS10	OGT_647_505m_P02		Group2	1374931	55.74	0	43.87	this study	TBA	NCBI accession	505	31.666664	-64.166666	need to double check coords with Takuro	1338	29	37	0	33
+OSU_TB01	ERR598948.bin.48		Group1a	2173708	95.22	0.93	44.99	this study	TBA	NCBI accession	115	-9.0063	-139.1394		1899	3	67	0	38
+OSU_TB02	ERR598948.bin.62		Group3b	1646789	94.05	0.19	40.05	this study	TBA	NCBI accession	115	-9.0063	-139.1394		1639	30	7	0	19
+OSU_TB04	ERR598957.bin.32		Group5	1227201	80.77	1.39	33.53	this study	TBA	NCBI accession	155	-23.2189	-129.4997		1262	14	3	0	13
+OSU_TB05	ERR598958.bin.45		Group1a	2040367	76.1	0	46.96	this study	TBA	NCBI accession	250	34.1504	-56.9684		1801	8	58	1	44
+OSU_TB06	ERR598958.bin.54		Group2	1783053	84.72	0	43.59	this study	TBA	NCBI accession	250	34.1504	-56.9684		1697	41	36	0	48
+OSU_TB07	ERR598958.bin.65		Group3a	1484939	67.35	3.7	43.56	this study	TBA	NCBI accession	250	34.1504	-56.9684		1504	33	9	1	23
+OSU_TB08	ERR598958.bin.93		Group4	823553	42.54	1.85	50.51	this study	TBA	NCBI accession	250	34.1504	-56.9684		787	2	0	1	13
+OSU_TB09	ERR599000.bin.19		Group3a	2609057	86.58	1.85	58.58	this study	TBA	NCBI accession	800	-20.9315	-35.1794		2544	100	3	10	48
+OSU_TB10	ERR599008.bin.15		Group2	2577089	79.51	2.78	55.84	this study	TBA	NCBI accession	790	-61.9689	-49.5017		2566	50	37	1	49
+OSU_TB11	ERR599008.bin.25		Group4	1871480	83.85	1.08	57.26	this study	TBA	NCBI accession	790	-61.9689	-49.5017		1892	22	2	50	22
+OSU_TB12	ERR599008.bin.28		Group2	1712038	82.28	0	42.49	this study	TBA	NCBI accession	790	-61.9689	-49.5017		1635	30	25	0	28
+OSU_TB13	ERR599021.bin.5		Group3a	2592751	78.95	1.03	57.09	this study	TBA	NCBI accession	1000	-29.5046	37.9599		2479	95	2	7	44
+OSU_TB14	ERR599034.bin.9		Group3a	1826348	59.66	0	57.3	this study	TBA	NCBI accession	850	-35.1889	26.2905		1748	67	2	7	34
+OSU_TB15	ERR599037.bin.5		Group2	3936920	95.37	3.7	61.11	this study	TBA	NCBI accession	270	18.7341	66.3896		3590	28	47	0	55
+OSU_TB16	ERR599046.bin.3		Group3b	1261887	71.3	1.11	40.16	this study	TBA	NCBI accession	120	-30.1484	-43.2705		1283	22	5	0	16
+OSU_TB17	ERR599047.bin.20		Group3a	2602142	90.18	1.39	56.88	this study	TBA	NCBI accession	640	34.6663	-71.2907		2491	90	2	9	47
+OSU_TB18	ERR599061.bin.10	TARA_RED_MAG_00053	Group5	1551723	95.99	0	33.87	this study	TBA	NCBI accession	80	23.4183	37.245		1549	15	5	0	17
+OSU_TB19	ERR599061.bin.16		Group3b	1423831	86.73	0	40.19	this study	TBA	NCBI accession	80	23.4183	37.245		1408	26	5	0	17
+OSU_TB20	ERR599061.bin.21		Group1b	1240037	79.91	0.46	30.98	this study	TBA	NCBI accession	80	23.4183	37.245		1249	1	30	0	20
+OSU_TB21	ERR599062.bin.15		Group2	3950169	94.91	1.85	61.25	this study	TBA	NCBI accession	600	20.8457	63.5851		3563	29	49	2	51
+OSU_TB22	ERR599062.bin.22		Group3a	3094065	87.96	0.46	56.82	this study	TBA	NCBI accession	600	20.8457	63.5851		3006	114	2	9	56
+OSU_TB23	ERR599062.bin.64		Group1a	1313356	70.14	1.72	38.73	this study	TBA	NCBI accession	600	20.8457	63.5851		1244	2	27	0	18
+OSU_TB24	ERR599072.bin.28		Group3a	2651326	91.27	4.63	58.79	this study	TBA	NCBI accession	696	-23.2232	-129.5986		2562	93	3	10	49
+OSU_TB25	ERR599072.bin.36		Group3a	2461216	86.67	0	57.75	this study	TBA	NCBI accession	696	-23.2232	-129.5986		2341	94	2	7	43
+OSU_TB26	ERR599072.bin.46		Group2	2120711	84.88	2.78	46.04	this study	TBA	NCBI accession	696	-23.2232	-129.5986		1927	36	23	0	47
+OSU_TB27	ERR599072.bin.67		Group2	1568165	62.35	0	44.29	this study	TBA	NCBI accession	696	-23.2232	-129.5986		1478	40	40	0	43
+OSU_TB28	ERR599085.bin.2		Group3a	2558021	82.4	0.1	56.99	this study	TBA	NCBI accession	488	-25.8076	-111.6906		2422	93	2	6	39
+OSU_TB29	ERR599086.bin.31		Group3a	2081632	70.38	3.24	59.07	this study	TBA	NCBI accession	350	-16.9486	-100.6715		2006	75	1	8	38
+OSU_TB30	ERR599086.bin.62		Group2	1186805	67.7	0.93	30.08	this study	TBA	NCBI accession	350	-16.9486	-100.6715		1161	6	5	0	18
+OSU_TB31	ERR599089.bin.27		Group3b	1297745	79.42	0.31	40.24	this study	TBA	NCBI accession	120	-9.0714	-140.5973		1302	25	7	0	15
+OSU_TB32	ERR599094.bin.55		Group1b	1258504	93.97	3.45	30.82	this study	TBA	NCBI accession	50	39.3991	19.3997		1286	1	28	0	20
+OSU_TB33	ERR599097.bin.105		Group1a	1114687	69.75	0	31.44	this study	TBA	NCBI accession	80	23.4183	37.245		1053	0	31	0	22
+OSU_TB34	ERR599097.bin.121	TARA_RED_MAG_00052	Group1c	751477	56.69	0	33.23	this study	TBA	NCBI accession	80	23.4183	37.245		743	0	19	0	15
+OSU_TB35	ERR599097.bin.71	TARA_RED_MAG_00033	Group2	1532285	90.64	0	38.7	this study	TBA	NCBI accession	80	23.4183	37.245		1452	20	6	0	44
+OSU_TB36	ERR599097.bin.78		Group2	1447273	92.24	0	32.21	this study	TBA	NCBI accession	80	23.4183	37.245		1392	3	12	1	18
+OSU_TB38	ERR599111.bin.38	TARA_RED_MAG_00076	Group3a	2491678	89.51	1.85	61.35	this study	TBA	NCBI accession	60	18.4417	39.8567		2447	80	2	4	36
+OSU_TB39	ERR599111.bin.55	TARA_RED_MAG_00044	Group2	2053070	93.95	3.89	35.76	this study	TBA	NCBI accession	60	18.4417	39.8567		1892	7	6	0	31
+OSU_TB40	ERR599111.bin.65	TARA_RED_MAG_00039	Group1a	1809448	89.51	0.93	46.42	this study	TBA	NCBI accession	60	18.4417	39.8567		1637	6	57	0	24
+OSU_TB42	ERR599111.bin.83		Group3b	1431148	87.47	0	39.97	this study	TBA	NCBI accession	60	18.4417	39.8567		1428	21	4	0	18
+OSU_TB43	ERR599111.bin.90		Group1b	1242821	85.46	0	31.39	this study	TBA	NCBI accession	60	18.4417	39.8567		1255	1	32	0	20
+OSU_TB44	ERR599115.bin.17		Group1a	1308797	64.15	1.85	57.93	this study	TBA	NCBI accession	650	35.2698	-127.7268		1305	4	39	0	19
+OSU_TB45	ERR599117.bin.15		Group3b	1602760	91.17	2.96	39.95	this study	TBA	NCBI accession	150	-8.9109	-140.2845		1591	30	7	0	18
+OSU_TB46	ERR599117.bin.45		Group5	705698	50.18	0	33.59	this study	TBA	NCBI accession	150	-8.9109	-140.2845		685	7	3	0	10
+OSU_TB47	ERR599124.bin.3		Group3a	2671503	84.39	0	56.88	this study	TBA	NCBI accession	800	-30.1471	-43.2915		2569	104	2	8	42
+OSU_TB48	ERR599125.bin.3		Group3a	2436464	70.96	0.93	57.47	this study	TBA	NCBI accession	790	-61.9689	-49.5017		2388	93	2	7	43
+OSU_TB49	ERR599130.bin.27		Group1b	779111	55.63	1.39	31.46	this study	TBA	NCBI accession	80	5.9998	73.9067		774	1	21	0	15
+OSU_TB50	ERR599146.bin.25		Group1b	733192	59.17	0.16	30.83	this study	TBA	NCBI accession	5	-35.1728	26.2868		765	1	16	0	17
+OSU_TB51	ERR599148.bin.24		Group2	1352053	80.8	1.11	34.98	this study	TBA	NCBI accession	150	-21.0292	-35.3498		1336	12	6	0	31
+OSU_TB52	ERR599154.bin.6		Group3a	2179823	77.63	0.93	57.63	this study	TBA	NCBI accession	800	-20.9315	-35.1794		2080	83	0	6	44
+OSU_TB53	ERR599156.Bin.103		Group6	1600497	94.29	0	44.93	this study	TBA	NCBI accession	140	-8.8999	-142.5461		1493	1	0	0	20
+OSU_TB54	ERR599156.Bin.107		Group3b	1501847	89.51	0.19	40.03	this study	TBA	NCBI accession	140	-8.8999	-142.5461		1493	29	5	0	19
+OSU_TB55	ERR599156.Bin.109		Group5	1439177	95.06	0	41.4	this study	TBA	NCBI accession	140	-8.8999	-142.5461		1367	2	1	0	6
+OSU_TB56	ERR599156.Bin.111		Group2	1393133	67.28	0	33.91	this study	TBA	NCBI accession	140	-8.8999	-142.5461		1309	5	2	0	16
+OSU_TB57	ERR599156.Bin.113		Group5	1362308	87.19	0.93	40.96	this study	TBA	NCBI accession	140	-8.8999	-142.5461		1359	1	5	0	8
+OSU_TB58	ERR599156.Bin.123		Group1b	1177170	91.38	0	31.15	this study	TBA	NCBI accession	140	-8.8999	-142.5461		1191	1	29	0	20
+OSU_TB59	ERR599156.Bin.52		Group3a	2629155	91.27	1.11	61.02	this study	TBA	NCBI accession	140	-8.8999	-142.5461		2564	79	2	4	43
+OSU_TB60	ERR599157.bin.26		Group1b	1190977	88.48	3.61	31.24	this study	TBA	NCBI accession	150	-8.9109	-140.2845		1199	1	27	0	20
+OSU_TB61	ERR599164.bin.5		Group3a	2532689	82.39	0	57.28	this study	TBA	NCBI accession	1000	-29.5046	37.9599		2407	94	2	8	39
+OSU_TB62	TARA_032_DCM_0.22-1.6_bins_66_22	TARA_RED_MAG_00064	Group4	1650912	97.84	0.41	41.63	this study	TBA	NCBI accession	80	23.4183	37.245		1624	17	3	31	29
+OSU_TB63	TARA_123_MIX_0.22-3_bins_14_13_11		Group1a	2275237	91.36	1.85	46.79	this study	TBA	NCBI accession	150	-8.9109	-140.2845		2055	6	75	0	42
+OSU_TB64	TARA_124_MIX_0.22-3_bins_29_26	TARA_PSW_MAG_00081	Group1b	1390430	96.55	0	31.36	this study	TBA	NCBI accession	120	-9.0714	-140.5973		1404	2	34	0	21
+OSU_TB65	TARA_137_MES_0.22-3_bins_7_4_6		Group3a	3121826	95.37	0.46	58.04	this study	TBA	NCBI accession	375	14.2025	-116.6433		3017	113	2	9	53
+OSU_ZL01	sar202_aaa001-f05		Group3a	1320825	14.66	0	54.55	Landry et al (2017)	2521172608	IMG accession	800	-12.483333	-4.983333		1277	39	0	2	13
+OSU_ZL02	sar202_aaa007-m09		Group3a	1096525	4.17	0	52.6	Landry et al (2017)	2521172609	IMG accession	800	-12.483333	-4.983333		1075	35	2	2	21
+OSU_ZL03	sar202_aaa240-n13		Group3a	1403147	26.12	0	55.36	Landry et al (2017)	2263328036	IMG accession	770	22.75	-158		1409	42	0	3	17
+OSU_ZL04	sar202_aaa240-o15		Group3a	1423799	26.85	0.19	54.07	Landry et al (2017)	2521172610	IMG accession	770	22.75	-158		1416	47	0	4	26
+OSU_ZL05	sar202_ab-629-p13		Group5	807656	51.65	2.48	42.17	Landry et al (2017)	2639762710	IMG accession	511	18.166667	-41.033333		785	1	3	0	10
+UM_GB_B1	GCA_001623305_Bin59		Group3a	2998127	93.21	0.93	54.26	unpublished	LWDU01000000	Bin59; NCBI accession	2000	27.025	-111.4		2902	107	3	11	45
+USC_TB66	TOBG_EAC-10		Group1b	1337577	96.55	2.51	31.27	Tully et al (2018)	GCA_002703265.1	TOBG_EAC-10	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1351	1	31	0	18
+USC_TB67	TOBG_EAC-34		Group2	1456460	85.8	0	35.63	Tully et al (2018)	GCA_002696265.1	TOBG_EAC-34	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1480	8	10	0	23
+USC_TB68	TOBG_MED-882		Group1b	1060569	69.44	2.78	31.93	Tully et al (2018)	refer to figshare ( http://dx.doi.org/10.6084/m9.figshare.5188273)	TOBG_MED-882; TMED70	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1057	1	22	0	19
+USC_TB69	TOBG_NAT-118	TARA_ANE_MAG_00028	Group1b	1381496	94.83	1.72	30.71	Tully et al (2018)	GCA_002699165.1	TOBG_NAT-118	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1394	1	28	0	19
+USC_TB70	TOBG_NAT-190		Group2	1277955	87.7	0	30.36	Tully et al (2018)	GCA_002711005.1	TOBG_NAT-190	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1277	2	3	0	16
+USC_TB71	TOBG_NAT-417		Group1a	1342886	88.79	3.45	31.1	Tully et al (2018)	GCA_002701805.1	TOBG_NAT-417	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1293	1	39	0	26
+USC_TB72	TOBG_NAT-65		Group1b	1185111	59.48	1.72	33.64	Tully et al (2018)	GCA_002701495.1	TOBG_NAT-65	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1204	2	27	1	20
+USC_TB74	TOBG_RS-510		Group2	1219234	67.78	4.63	37.03	Tully et al (2018)	GCA_002727595.1	TOBG_RS-510	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1201	3	18	0	19
+USC_TB75	TOBG_SAT-13		Group1a	1395102	95.99	0.93	31.33	Tully et al (2018)	GCA_002714425.1	TOBG_SAT-13	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1356	1	40	0	24
+USC_TB76	TOBG_SAT-171		Group2	1018053	59.48	1.72	30.62	Tully et al (2018)	refer to figshare ( http://dx.doi.org/10.6084/m9.figshare.5188273)	TOBG_SAT-171	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1009	1	2	0	14
+USC_TB78	TOBG_SAT-208		Group2	1059703	61.42	0	31.01	Tully et al (2018)	refer to figshare ( http://dx.doi.org/10.6084/m9.figshare.5188273)	TOBG_SAT-208	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1022	6	4	0	12
+USC_TB79	TOBG_SAT-221		Group2	1424643	90.28	1.11	35.06	Tully et al (2018)	GCA_002707945.1	TOBG_SAT-221	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1407	12	9	0	36
+USC_TB80	TOBG_SAT-3076		Group1a	1312290	51.39	0.93	57.46	Tully et al (2018)	GCA_002707125.1	TOBG_SAT-3076	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1221	4	37	0	19
+USC_TB81	TOBG_SP-224		Group2	2484032	90.43	4.63	32.13	Tully et al (2018)	GCA_002722455.1	TOBG_SP-224	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	2672	5	3	0	13
+USC_TB82	TOBG_SP-248		Group1c	981310	81.19	0	32.7	Tully et al (2018)	GCA_002721675.1	TOBG_SP-248	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1005	0	26	0	16
+USC_TB84	TOBG_SP-267		Group2	1712152	92.9	0.19	30.7	Tully et al (2018)	GCA_002721445.1	TOBG_SP-267	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1622	11	6	0	21
+USC_TB85	TOBG_SP-3041		Group1b	1271263	81.58	2.59	31.02	Tully et al (2018)	GCA_002719295.1	TOBG_SP-3041	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1293	1	28	0	20
+USC_TB86	TOBG_SP-3045		Group1a	1097020	71.55	3.45	31.97	Tully et al (2018)	GCA_002719215.1	TOBG_SP-3045	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1067	1	27	0	19
+USC_TB87	TOBG_SP-316		Group1b	1300963	86.21	0	30.44	Tully et al (2018)	GCA_002718455.1	TOBG_SP-316	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1316	2	29	0	23
+USC_TB88	TOBG_SP-319		Group4	1279897	78.63	0.93	41.41	Tully et al (2018)	GCA_002719775.1	TOBG_SP-319	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1261	11	8	13	14
+USC_TB89	TOBG_SP-320		Group4	1299712	77.09	0	43.16	Tully et al (2018)	GCA_002719715.1	TOBG_SP-320	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1283	17	2	29	23
+USC_TB90	TOBG_SP-342		Group1a	1381570	79.32	1.85	31.57	Tully et al (2018)	GCA_002717385.1	TOBG_SP-342	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1348	1	40	0	29
+USC_TB91	TOBG_SP-344		Group2	1437644	90.43	0.19	34.08	Tully et al (2018)	GCA_002718095.1	TOBG_SP-344	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1431	11	9	0	40
+USC_TB92	TOBG_SP-352		Group1a	1753659	56.17	3.7	45.67	Tully et al (2018)	GCA_002717345.1	TOBG_SP-352	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1569	10	56	3	33
+USC_TB93	TOBG_SP-4355		Group1a	1368684	74.23	2.78	44.51	Tully et al (2018)	GCA_002717585.1	TOBG_SP-4355	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1231	2	34	0	22
+USC_TB94	TOBG_SP-4360		Group5	1500968	91.82	0	47.22	Tully et al (2018)	GCA_002717565.1	TOBG_SP-4360	mixed	mixed	mixed	can't really use these guys since samples from different origins have been combined and co-assembled	1444	1	0	0	10
